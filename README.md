@@ -84,7 +84,3 @@ compare the CNN fault probability (left column) with fault likelihood (right col
 ### Example of [Opunake-3D](https://wiki.seg.org/wiki/Opunake-3D) (The fault features have been thinned in this example)
 ![results/opunakeCnnFaultByWu.png](results/opunakeCnnFaultByWu.png)
 
-## License
-
-This extension to the Keras library is released under a creative commons license which allows for personal and research use only. 
-For a commercial license please contact the authors. You can view a license summary here: http://creativecommons.org/licenses/by-nc/4.0/
